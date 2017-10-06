@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'json_spec', '~> 1.1.4'
   spec.add_development_dependency 'equivalent-xml', '~> 0.5.1'
 
-  spec.add_dependency 'clamp', '~> 0.6'
+  spec.add_dependency 'clamp', '~> 1.1.2'
   spec.add_dependency 'xcodeproj', '~> 1.4'
   spec.add_dependency 'nokogiri', '>= 1.6', '< 1.7'
   spec.add_dependency 'CFPropertyList', '~> 2.2'
